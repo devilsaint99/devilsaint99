@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devilsaint99
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Python
 
 <!---
