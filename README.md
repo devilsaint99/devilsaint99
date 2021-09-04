@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devilsaint99
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,Java 
 
 <!---
 devilsaint99/devilsaint99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
